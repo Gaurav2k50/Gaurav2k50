@@ -9,7 +9,7 @@
 - 💬 Ask me about: MongoDB, Express.js, React.js, Node.js
 - 📫 How to reach me: **gaurav2k50@gmail.com**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: End of Thinking Capacity
+
 
 ## Activity
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav2k50&show_icons=true&locale=en" alt="gaurav2k50" /></p>
@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ⚡ Fun fact: End of Thinking Capacity
 -->
