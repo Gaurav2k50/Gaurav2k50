@@ -4,8 +4,8 @@
 
 ## About me
 
-- 🔭 I’m currently working on Chat Application
-- 🌱 I’m currently learning: Node.js, MongoDB
+- 🔭 I’m currently working on E-Commerce Website
+- 🌱 I’m currently learning: MySQL
 - 💬 Ask me about: MongoDB, Express.js, React.js, Node.js
 - 📫 How to reach me: **gaurav2k50@gmail.com**
 - 😄 Pronouns: He/Him
