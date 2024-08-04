@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on E-Commerce Website
 - 🌱 I’m currently learning: MySQL
 - 💬 Ask me about: MongoDB, Express.js, React.js, Node.js
-- 📫 How to reach me: **gaurav2k50@gmail.com**
+- 📫 How to reach me: **gauravsingh2k01@gmail.com**
 - 😄 Pronouns: He/Him
 
 
