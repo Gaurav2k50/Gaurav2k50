@@ -4,9 +4,11 @@
 
 ## About me
 
-- 🔭 I’m currently working on E-Commerce Website
-- 🌱 I’m currently learning: MySQL
-- 💬 Ask me about: MongoDB, Express.js, React.js, Node.js
+- 🔭 Currently working on: A School Management System using Next.js, Node.js, Express.js, MySQL, Tailwind CSS, SCSS, and CSS. I’m focused on building a comprehensive system to streamline school operations and enhance user experience.
+- 🌱 I’m currently learning: MySQL – Delving into advanced database management techniques and performance optimization.
+- 💬 Ask me about: MongoDB, Express.js, React.js, Node.js – These are my core technologies for full-stack development.
+- 📚 Projects: School Management System – A robust application for managing school operations.
+- 🔧 Skills: JavaScript, Full-Stack Development, Database Management, API Development, UI/UX Design
 - 📫 How to reach me: **gauravsingh2k01@gmail.com**
 - 😄 Pronouns: He/Him
 
