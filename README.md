@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <p align="center">
   🚀 Software Developer | Freelancer | Tech Enthusiast<br/>
-  💻 1+ years of experience in Web & App Development<br/>
+  💻 1+ years of experience in Web Development<br/>
   🏢 Currently at Gridverse Innovations (P) Ltd.
 </p>
 
