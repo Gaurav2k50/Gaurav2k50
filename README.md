@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <p align="center">
   🚀 Software Developer | Freelancer | Tech Enthusiast<br/>
